@@ -82,3 +82,4 @@ if len(targetfathers) > 2:
 	permissons['Other'].union(temp_list)
 
 
+#the result is permissons
